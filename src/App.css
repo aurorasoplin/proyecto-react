@@ -1,0 +1,29 @@
+
+body{
+  background-color: rgb(245, 207, 212);
+}
+header{
+  background-color: crimson;
+}
+header div {
+  display: flex;
+  
+
+}
+
+div li{
+  justify-content: center;
+  text-align: right;
+  align-content:center;
+list-style-type: none;
+padding: 10px;
+}
+
+div img { width: 100px;
+
+}
+div main {
+  text-align: right;
+  justify-content: center;
+  align-content: center;
+}
