@@ -10,8 +10,9 @@ export default function Navbar() {
         <li>casual</li>
         <li>formal</li>  
       </div>
+      <CartWidget />
+
       </header>
-      
     )
     
 }
